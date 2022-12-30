@@ -2,6 +2,9 @@ Stacko :-
 * An app for the college freshers who came college for the first time and are unaware of college building locations ,nearby accomodations ,fooding. 
 * This app helps them to reach their destination just by one click . 
 * They can also join the college group of their interests , also remain updated of all the college happenings in the post section.
+* Built using flutter 
+
+App link :- https://drive.google.com/file/d/1X4YGDHaDsgi1KweWUxaGecxdILNXGhOa/view?usp=share_link
   
 
 
